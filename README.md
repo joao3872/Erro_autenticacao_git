@@ -2,7 +2,7 @@
 
 ### Caso o erro for esse:
 
-<img src="imagens/erro_imagem.PNG" height="300px" width="400px" />
+<img src="imagens/erro_imagem.PNG" />
 
 ### Por quê isso acontece ?
 
